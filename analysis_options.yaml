@@ -1,0 +1,9 @@
+include: package:powerdope_linter/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "lib/src/shared/common/olc.dart"
+
+linter:
+  rules:
+    lines_longer_than_80_chars: false

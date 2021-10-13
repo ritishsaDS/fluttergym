@@ -1,0 +1,1 @@
+POWERDOPE believes strongly in protecting user privacy and providing you with notice of powerdope India use of data. Please refer to POWERDOPE privacy policy, incorporated by reference herein, that is posted on the Website.

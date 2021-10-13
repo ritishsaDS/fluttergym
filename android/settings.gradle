@@ -1,0 +1,6 @@
+rootProject.name = 'Power Dope'
+include ':app'
+
+def props = new Properties()
+new File(rootProject.projectDir, 'local.properties').withReader { props.load(it) }
+apply from: "${props["flutter.sdk"]}/packages/flutter_tools/gradle/app_plugin_loader.gradle"
